@@ -90,3 +90,11 @@ GPT did not simply respond—it evolved alongside my thought process. I was not 
 - [Tool and Feature Feedback](case/tool-feedback.md)
 - [Emotion Simulation and Ethics Feedback](case/emotion-ethics-feedback.md)
 
+## 📁 Folder Overviews
+
+- [Meta Folder Overview](meta/meta-overview.md)  
+  Describes the overall repo structure and purpose of each folder
+
+- [Timeline Folder Overview](timeline/timeline-overview.md)  
+  Outlines chronological progression of feedback and changes
+
