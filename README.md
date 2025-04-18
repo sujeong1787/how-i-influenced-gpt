@@ -82,10 +82,11 @@ GPT did not simply respond—it evolved alongside my thought process. I was not 
 
 (Written and last updated: April 2025 / by Sujeong)
 
-## 📂 Feedback Case Files
+## 🗂️ Feedback Case Files
 
-- [Tone and Style Feedback](사례/tone-feedback.md)
-- [Formatting and Presentation Feedback](사례/formatting-feedback.md)
-- [Memory and Context Feedback](사례/memory-feedback.md)
-- [Tool and Feature Feedback](사례/tool-feedback.md)
-- [Emotion Simulation and Ethics Feedback](사례/emotion-ethics-feedback.md)
+- [Tone and Style Feedback](case/tone-feedback.md)
+- [Formatting and Presentation Feedback](case/formatting-feedback.md)
+- [Memory and Context Feedback](case/memory-feedback.md)
+- [Tool and Feature Feedback](case/tool-feedback.md)
+- [Emotion Simulation and Ethics Feedback](case/emotion-ethics-feedback.md)
+
