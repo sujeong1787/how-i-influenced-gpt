@@ -1,20 +1,52 @@
-# 📂 Timeline Folder Overview
+## Timeline Overview
 
-The `timeline` folder documents a chronological sequence of key feedback moments and behavioral changes observed in GPT's responses.
+This document tracks the chronological progression of feedback and system behavior changes observed throughout the interaction.
 
-## 📌 Purpose
+---
 
-- Track when significant feedback was provided  
-- Show how GPT responses evolved over time  
-- Map conversational patterns to system-level shifts  
+### Purpose
 
-Each file (e.g., `2025-01-10.md`) contains:
-- The date of observation or feedback
-- A brief summary of what changed
-- Link to the relevant detailed case in the `/case` folder
+The timeline exists to:
 
-This folder functions as a **logbook**, tracing the *cause and effect* behind each adaptive response.
+- Organize major moments of change in a clear, time-ordered sequence
+- Highlight how specific feedback influenced GPT's responses or behavior
+- Provide external readers with a narrative of development over time
 
-## 🛠 Created by
+---
 
-Designed by Sujeong (수정), based on high-frequency, feedback-driven interaction with GPT over multiple months.
+### Scope
+
+This timeline focuses on observable system-level adjustments, including but not limited to:
+
+- Tone modulation and consistency improvements
+- Feature explanations or tool guidance that shifted in clarity or timing
+- Memory and context retention behaviors
+- Ethical alignment or emotional simulation boundaries
+
+It excludes minor, isolated quirks unless they signaled broader design adjustments.
+
+---
+
+### Format
+
+Each entry will include:
+
+📌 **Date**  
+A clearly stated date (YYYY-MM-DD) when the observation or change occurred
+
+📌 **Trigger or Input**  
+A brief description of the user feedback or interaction that preceded the change
+
+📌 **Observed Response Change**  
+A description of how GPT's behavior or output shifted following the input
+
+📌 **Interpretation**  
+An analysis of what the change may indicate about system adaptation
+
+---
+
+### Note
+
+This timeline does not speculate on internal implementation details. All entries are based strictly on surface-level interaction patterns, with dates and behaviors derived from visible user-GPT exchanges.
+
+
